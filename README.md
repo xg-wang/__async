@@ -1,5 +1,7 @@
 # --async
 
+> babel 6 demo is on babel6 branch
+
 Browser list:
 
 ```
